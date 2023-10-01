@@ -9,7 +9,7 @@ import java.time.LocalDate;
 
 import static org.hamcrest.Matchers.*;
 
-public class BookingTest extends BaseTestNG {
+public class CreateBookingTest extends BaseTestNG {
 
     @DataProvider
     public Object[][] createBookingData() {
